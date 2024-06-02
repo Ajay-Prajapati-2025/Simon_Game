@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h3{
+    text-align: center;
+}
+.container{
+    text-align: center;
+}
+
+.line_one{
+    display: flex;
+    justify-content: center;
+}
+
+.line_two{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+    border: 3px solid black;
+    margin: 1rem;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: greenyellow;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: green;
+}
+
